@@ -31,7 +31,7 @@ As you learn new topics, create new branches and update this list:
 
 1. Clone the repository:
    ```bash
-   git clone [git@github.com:shahinali-dev/lws.git]
+   git clone https://github.com/shahinali-dev/lws.git
    ```
 
 2. Switch to your desired module branch:
